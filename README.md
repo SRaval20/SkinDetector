@@ -1,6 +1,4 @@
-# Team Project 4
-
-## Skin Detector
+# Skin Detector
 
 ### Introduction
 
